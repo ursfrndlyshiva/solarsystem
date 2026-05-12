@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/solarsystem/static/js/main.39006a14.js",
+    "static/js/453.090dfa31.chunk.js": "/solarsystem/static/js/453.090dfa31.chunk.js",
+    "index.html": "/solarsystem/index.html",
+    "main.39006a14.js.map": "/solarsystem/static/js/main.39006a14.js.map",
+    "453.090dfa31.chunk.js.map": "/solarsystem/static/js/453.090dfa31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.39006a14.js"
+  ]
+}
